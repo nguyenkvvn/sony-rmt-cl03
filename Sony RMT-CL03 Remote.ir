@@ -1,0 +1,248 @@
+Filetype: IR signals file
+Version: 1
+# 
+name: ⏏ CD
+type: parsed
+protocol: SIRC15
+address: 64 00 00 00
+command: 16 00 00 00
+# 
+name: ⏏ MD
+type: parsed
+protocol: SIRC15
+address: 64 00 00 00
+command: 49 00 00 00
+# 
+name: I/O
+type: parsed
+protocol: SIRC15
+address: 44 00 00 00
+command: 15 00 00 00
+# 
+name: Function
+type: parsed
+protocol: SIRC15
+address: 44 00 00 00
+command: 47 00 00 00
+# 
+name: Sleep
+type: parsed
+protocol: SIRC15
+address: 44 00 00 00
+command: 60 00 00 00
+# 
+name: Standby
+type: parsed
+protocol: SIRC15
+address: 44 00 00 00
+command: 61 00 00 00
+# 
+name: Clock/Delete
+type: parsed
+protocol: SIRC15
+address: 44 00 00 00
+command: 63 00 00 00
+# 
+name: 1
+type: parsed
+protocol: SIRC20
+address: 3A 07 00 00
+command: 00 00 00 00
+# 
+name: 2
+type: parsed
+protocol: SIRC20
+address: 3A 07 00 00
+command: 01 00 00 00
+# 
+name: 3
+type: parsed
+protocol: SIRC20
+address: 3A 07 00 00
+command: 02 00 00 00
+# 
+name: 4
+type: parsed
+protocol: SIRC20
+address: 3A 07 00 00
+command: 03 00 00 00
+# 
+name: 5
+type: parsed
+protocol: SIRC20
+address: 3A 07 00 00
+command: 04 00 00 00
+# 
+name: 6
+type: parsed
+protocol: SIRC20
+address: 3A 07 00 00
+command: 05 00 00 00
+# 
+name: 7
+type: parsed
+protocol: SIRC20
+address: 3A 07 00 00
+command: 06 00 00 00
+# 
+name: 8
+type: parsed
+protocol: SIRC20
+address: 3A 07 00 00
+command: 07 00 00 00
+# 
+name: 9
+type: parsed
+protocol: SIRC20
+address: 3A 07 00 00
+command: 08 00 00 00
+# 
+name: Timer/Insert
+type: parsed
+protocol: SIRC15
+address: 44 00 00 00
+command: 62 00 00 00
+# 
+name: Edit
+type: parsed
+protocol: SIRC15
+address: 64 00 00 00
+command: 4E 00 00 00
+# 
+name: Yes/Enter
+type: parsed
+protocol: SIRC15
+address: 64 00 00 00
+command: 10 00 00 00
+# 
+name: Mode
+type: parsed
+protocol: SIRC15
+address: 44 00 00 00
+command: 11 00 00 00
+# 
+name: 0/10
+type: parsed
+protocol: SIRC15
+address: 64 00 00 00
+command: 0C 00 00 00
+# 
+name: >10
+type: parsed
+protocol: SIRC15
+address: 64 00 00 00
+command: 0D 00 00 00
+# 
+name: No/Cancel
+type: parsed
+protocol: SIRC15
+address: 64 00 00 00
+command: 0F 00 00 00
+# 
+name: ⏯ MD
+type: parsed
+protocol: SIRC15
+address: 64 00 00 00
+command: 4A 00 00 00
+# 
+name: ⏪ Track Left
+type: parsed
+protocol: SIRC15
+address: 64 00 00 00
+command: 43 00 00 00
+# 
+name: ⏩ Track Right
+type: parsed
+protocol: SIRC15
+address: 64 00 00 00
+command: 44 00 00 00
+# 
+name: VOL +
+type: parsed
+protocol: SIRC15
+address: 44 00 00 00
+command: 12 00 00 00
+# 
+name: ⏯ CD
+type: parsed
+protocol: SIRC15
+address: 64 00 00 00
+command: 33 00 00 00
+# 
+name: ⏹ Stop
+type: parsed
+protocol: SIRC15
+address: 64 00 00 00
+command: 40 00 00 00
+# 
+name: Network
+type: parsed
+protocol: SIRC15
+address: 44 00 00 00
+command: 43 00 00 00
+# 
+name: VOL -
+type: parsed
+protocol: SIRC15
+address: 44 00 00 00
+command: 13 00 00 00
+# 
+name: Group Mode
+type: parsed
+protocol: SIRC15
+address: 64 00 00 00
+command: 53 00 00 00
+# 
+name: Group -
+type: parsed
+protocol: SIRC15
+address: 64 00 00 00
+command: 55 00 00 00
+# 
+name: Group +
+type: parsed
+protocol: SIRC15
+address: 64 00 00 00
+command: 54 00 00 00
+# 
+name: Matrix Surround
+type: parsed
+protocol: SIRC15
+address: 44 00 00 00
+command: 2A 00 00 00
+# 
+name: REC Mode
+type: parsed
+protocol: SIRC15
+address: 64 00 00 00
+command: 4B 00 00 00
+# 
+name: REC Speed Norm
+type: parsed
+protocol: SIRC15
+address: 64 00 00 00
+command: 4C 00 00 00
+# 
+name: REC Speed High
+type: parsed
+protocol: SIRC15
+address: 64 00 00 00
+command: 4D 00 00 00
+# 
+name: Sound
+type: parsed
+protocol: SIRC15
+address: 44 00 00 00
+command: 30 00 00 00
+# 
+name: Resume
+type: parsed
+protocol: SIRC15
+address: 64 00 00 00
+command: 2E 00 00 00
+# 
+name: Display
+type: parsed
+protocol: SIRC15
+address: 64 00 00 00
+command: 1C 00 00 00

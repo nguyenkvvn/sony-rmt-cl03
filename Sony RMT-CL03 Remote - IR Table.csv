@@ -1,0 +1,49 @@
+Row,Column,Remote Desc,,Flipper
+1,1,? CD,,SIRC_16
+1,2,? MD,,SIRC_49
+1,3,-,,-
+1,4,I/O,,SIRC_15
+2,1,Function,,SIRC_47
+2,2,Sleep,60,SIRC_60
+2,3,Standby,61,SIRC_61
+2,4,Clock/Delete,63,SIRC_63
+3,1,1,0,SIRC_00
+3,2,2,1,SIRC_01
+3,3,3,2,SIRC_02
+3,4,Timer/Insert,62,SIRC_62
+4,1,4,3,SIRC_03
+4,2,5,4,SIRC_04
+4,3,6,5,SIRC_05
+4,4,Edit,4E,SIRC_4E
+5,1,7,6,SIRC_06
+5,2,8,7,SIRC_07
+5,3,9,8,SIRC_08
+5,4,Yes/Enter,10,SIRC_10
+6,1,Mode,11,SIRC_11
+6,2,0/10,0C,SIRC_0C
+6,3,>10,0D,SIRC_0D
+6,4,No/Cancel,0F,SIRC_0F
+7,1,-,,-
+7,2,-,,-
+7,3,-,,-
+7,4,-,,-
+8,1,? MD,4A,SIRC_4A
+8,2,? Track Left,43,SIRC_43
+8,3,? Track Right,44,SIRC_44
+8,4,VOL +,12,SIRC_12
+9,1,? CD,33,SIRC_33
+9,2,? Stop,40,SIRC_40
+9,3,Network,43,SIRC_43
+9,4,VOL -,13,SIRC_13
+10,1,Group Mode,53,SIRC_53
+10,2,Group -,55,SIRC_55
+10,3,Group +,54,SIRC_54
+10,4,Matrix Sur,2A,SIRC_2A
+11,1,Rec Mode,4B,SIRC_4B
+11,2,REC Speed Norm,4C,SIRC_4C
+11,3,REC Speed High,4D,SIRC_4D
+11,4,Sound,30,SIRC_30
+12,1,Resume,2E,SIRC_2E
+12,2,-,,-
+12,3,-,,-
+12,4,Display,1C,SIRC_1C
